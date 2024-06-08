@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap');
 body {
     overflow: hidden;
-    background-color: #477879;
+    /* background-color: #477879; */
+    background-color: #843a69;
     font-family: 'Dancing Script', cursive;
 }
 
